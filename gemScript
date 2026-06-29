@@ -2,7 +2,7 @@
 local placeId = game.PlaceId
 
 if placeId == 98800969324557 then
-    loadstring(game:HttpGet(""))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/gemIDN/gemScript/refs/heads/main/StorageHunters.lua"))()
 
 elseif placeId == 22222222 then 
     loadstring(game:HttpGet(""))()
